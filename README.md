@@ -11,3 +11,8 @@
 12. Integer to Roman<br>
 19. Remove Nth Node From End of List<br>
 22. Generate Parentheses<br>
+
+**11/4/2018<br>**
+39. Combination Sum<br>
+40. Combination Sum II<br>
+46. Permutations<br>    
