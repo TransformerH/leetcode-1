@@ -16,3 +16,8 @@
 39. Combination Sum<br>
 40. Combination Sum II<br>
 46. Permutations<br>    
+
+**12/4/2018<br>**
+78. Subsets<br>
+90. SubsetsII<br>
+62. Unique Paths<br>
