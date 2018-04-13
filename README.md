@@ -21,3 +21,8 @@
 78. Subsets<br>
 90. SubsetsII<br>
 62. Unique Paths<br>
+
+**13/4/2018<br>**
+77. Combinations<br>
+64. Minimum Path Sum<br>
+82. Remove Duplicates from Sorted List II<br>
