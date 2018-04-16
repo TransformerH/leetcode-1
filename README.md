@@ -32,3 +32,8 @@
 
 **15/4/2018<br>**
 17. Letter Combinations of a Phone Number<br>
+
+**16/4/2018<br>**
+36. Valid Sudoku<br>
+5. Longest Palindromic Substring<br>
+34. Search for a Range<br>
