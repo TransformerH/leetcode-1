@@ -37,3 +37,10 @@
 36. Valid Sudoku<br>
 5. Longest Palindromic Substring<br>
 34. Search for a Range<br>
+
+**17/4/2018<br>**
+22. Generate Parentheses<br>
+128. Longest Consecutive Sequence(需要重做)<br>
+129. Sum Root to Leaf Numbers<br>
+6. ZigZag Conversion<br> 
+47. Permutations II<br>
