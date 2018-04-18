@@ -44,3 +44,6 @@
 129. Sum Root to Leaf Numbers<br>
 6. ZigZag Conversion<br> 
 47. Permutations II<br>
+
+**18/4/2018<br>**
+102. Binary Tree Level Order Traversal<br>107. Binary Tree Level Order Traversal II<br>105. Construct Binary Tree from Preorder and Inorder Traversal<br>106. Construct Binary Tree from Inorder and Postorder Traversal<br>
