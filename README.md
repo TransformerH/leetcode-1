@@ -47,3 +47,9 @@
 
 **18/4/2018<br>**
 102. Binary Tree Level Order Traversal<br>107. Binary Tree Level Order Traversal II<br>105. Construct Binary Tree from Preorder and Inorder Traversal<br>106. Construct Binary Tree from Inorder and Postorder Traversal<br>
+
+**19/4/2018<br>**
+113. Path Sum II<br>
+111. Minimum Depth of Binary Tree<br>
+144. Binary Tree Preorder Traversal<br>
+145. Binary Tree Postorder Traversal<br>
