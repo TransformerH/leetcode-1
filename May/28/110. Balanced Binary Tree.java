@@ -10,7 +10,7 @@
 class Solution {
     // not only should the root be balenced, but also their left and right children be balanced(find out recursively)
     public boolean isBalanced(TreeNode root) {
-    solution 1: a bit complex: O(n*logn)
+    // solution 1: a bit complex: O(n*logn)
         if (root == null) return true;
         return isBalanced(root.left) && isBalanced(root.right) && (Math.abs(findHeight(root.left)-findHeight(root.right)) <= 1);
     }
