@@ -1,6 +1,6 @@
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
-
+    //bottom up DP?
         boolean[] result = new boolean[s.length() + 1];
         result[0] = true;
         //"leetcodehahaha"
@@ -17,5 +17,28 @@ class Solution {
             }
         }
         return result[s.length()];
+    }
+
+    public boolean wordBreak2(String s, List<String> wordDict) {
+        // recursive memorization?        
+        return helper(new HashMap<>(), s, wordDict);
+    }
+    private boolean helper(Map<String, Boolean> map, String s, List<String> wordDict){
+        if (map.containsKey(s))
+            return map.get(s);
+        if (wordDict.contains(s)){
+            map.put(s, true);
+            return true;
+        }
+        for (int i = 1; i < s.length(); i++){
+            String left = s.substring(0, i);
+            String right = s.substring(i);
+            if (wordDict.contains(left) && helper(map, right, wordDict)){
+                map.put(right, true);
+                return true;
+            }
+        }
+        map.put(s, false);
+        return false;
     }
 }
